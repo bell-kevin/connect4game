@@ -2,8 +2,7 @@
 
 # 
 
-Just fun simple Connect 4 game
-
+Just a fun Connect 4 game
 
 ![p](https://github.com/bell-kevin/connect4game/blob/main/connect4.png)
 
