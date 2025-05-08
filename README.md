@@ -4,6 +4,8 @@
 
 Just a fun Connect 4 game
 
+![p](https://github.com/bell-kevin/connect4game/blob/main/Screenshot%202025-05-08%20104609.png)
+
 ![p](https://github.com/bell-kevin/connect4game/blob/main/connect4.png)
 
 --------------------------------------------------------------------------------------------------------------------------
